@@ -9,6 +9,6 @@
 <body>
 <!-- 변경되었습니다. -->
 <%System.out.println(23232); %>
-
+<%System.out.println(23232); %>
 </body>
 </html>
